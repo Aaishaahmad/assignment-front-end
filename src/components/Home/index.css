@@ -1,0 +1,13 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  width: 90%;
+  background-image: url('https://shutterstock.com/image-photo/old-brick-black-color-wall-vintage-1605128917');
+  background-size: cover;
+  background-color: black;
+}
